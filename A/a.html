@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>JavaScript Objects</h2>
+<p id="demo"></p>
+
+<script>
+const Animal = {
+  type: "Invertebrates",
+  displayType() {
+    console.log(this.type);
+  },
+};
+
+const animal1 = Object.create(Animal);
+animal1.displayType();
+
+const fish = Object.create(Animal);
+fish.type = "Fishes";
+fish.displayType();
+</script>
+
+</body>
+</html>

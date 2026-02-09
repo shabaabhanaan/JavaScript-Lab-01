@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>const Example</h2>
+
+<script>
+const z = 30;
+console.log("Value of z =", z);
+
+try {
+    z = 50;
+} catch(e) {
+    console.log("Error:", e.message);
+}
+
+const obj = { prop: 10 };
+console.log("Before change:", obj);
+
+obj.prop = 20;
+console.log("After change:", obj);
+
+try {
+    obj = { prop: 30 };
+} catch(e) {
+    console.log("Error:", e.message);
+}
+</script>
+
+</body>
+</html>

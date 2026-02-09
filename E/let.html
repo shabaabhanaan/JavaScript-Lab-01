@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>let Example</h2>
+
+<script>
+function testLet() {
+    if (true) {
+        let y = 20;
+        console.log("Inside if block, y =", y);
+    }
+    try {
+        console.log("Outside if block, y =", y);
+    } catch(e) {
+        console.log("Error:", e.message);
+    }
+}
+testLet();
+</script>
+
+</body>
+</html>
