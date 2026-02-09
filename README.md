@@ -1,7 +1,7 @@
 # JavaScript Lab Session 01
 
 ## GitHub Repository
-https://github.com/shabaabhanaan/JavaScript-Lab-01.git
+(https://github.com/shabaabhanaan/JavaScript-Lab-01.git)
 
 ## Folder Structure
 
