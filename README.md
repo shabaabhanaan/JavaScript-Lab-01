@@ -1,4 +1,4 @@
-# JavaScript Lab Session 01
+# JavaScript Lab Session 02
 
 ## GitHub Repository
 https://github.com/shabaabhanaan/IT23594586-Lab-02.git
