@@ -1,9 +1,9 @@
-JavaScript Lab Session 01
-GitHub Repository
+# JavaScript Lab Session 01
 
+## GitHub Repository
 https://github.com/shabaabhanaan/JavaScript-Lab-01.git
 
-Folder Structure
+## Folder Structure
 
 Each question is organized into a separate folder labeled A, B, C, D, E, F, G.
 Each folder contains the corresponding HTML file(s) for that question.
@@ -38,12 +38,11 @@ JavaScript-Lab-01/
 │
 └── README.md
 
-How to Run
+## How to Run
 
 Clone the repository:
 
 git clone https://github.com/shabaabhanaan/JavaScript-Lab-01.git
-
 
 Open the folder in Visual Studio Code
 
@@ -55,7 +54,7 @@ Open with Live Server or Default Browser
 
 Press F12 to view console output if required
 
-Notes
+## Notes
 
 Each folder represents one lab question
 
