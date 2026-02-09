@@ -43,6 +43,7 @@ JavaScript-Lab-01/
 Clone the repository:
 
 git clone https://github.com/shabaabhanaan/IT23594586-Lab-02.git
+
 Open the folder in Visual Studio Code
 
 Navigate to any folder (A, B, C, etc.)
